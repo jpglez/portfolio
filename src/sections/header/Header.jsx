@@ -16,7 +16,7 @@ const Header = () => {
         <div className="header__profile" data-aos="fade-in">
           <img src={HeaderImage} alt="Header Portait" />
         </div>
-        <h3  data-aos="fade-up">Juan Pablo González Sanmiguel</h3>
+        <h3  data-aos="fade-up">Juan Pablo González</h3>
         <p  data-aos="fade-up">
         You are a click away from building your dream website or web app. Send me the details of your project for a modern, mobile responsive, highly performant website today!
         </p>
