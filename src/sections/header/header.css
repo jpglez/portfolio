@@ -100,11 +100,22 @@ header {
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin-top: -1rem;
+        margin-top: -0.5rem;
+        padding: 0 1.2rem;
     }
 
-    .header__container h1,
+    .header__container h1 {
+        font-size: 1.4rem;
+        line-height: 1.8rem;
+        word-break: break-word;
+        white-space: normal;
+        letter-spacing: 0.3px;
+        width: 100%;
+    }
+
     .header__container h2 {
+        font-size: 1rem;
+        line-height: 1.5rem;
         text-align: center;
         width: 100%;
     }
@@ -119,12 +130,24 @@ header {
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin-top: -1.5rem;
+        margin-top: -1rem;
+        padding: 0 1.2rem;
     }
 
-    .header__container h1,
+    .header__container h1 {
+        font-size: 1.45rem;
+        line-height: 1.9rem;
+        word-break: break-word;
+        white-space: normal;
+        letter-spacing: 0.3px;
+        width: 100%;
+    }
+
     .header__container h2 {
+        font-size: 1rem;
+        line-height: 1.5rem;
         text-align: center;
         width: 100%;
     }
 }
+
