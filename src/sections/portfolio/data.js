@@ -65,12 +65,12 @@ const data = [
     },
     {
         id: 7,
-        category: 'API',
+        category: 'Entertainment',
         image: Image7,
-        title: "Custom Countdown (API)",
-        desc: "Set your own date and see the live countdown tick in real time. A sleek project combining logic, design, and user input handling.",
-        demo: 'https://jpglez.github.io/Custom-Countdown/',
-        github: 'https://github.com/jpglez/Custom-Countdown'
+        title: "Paint Clone (Entertainment)",
+        desc: "A canvas-based drawing app with brush size, color, eraser, background fill, and save-as-JPEG (settings persist via localStorage).",
+        demo: 'https://jpglez.github.io/Paint-Clone/',
+        github: 'https://github.com/jpglez/Paint-Clone'
     },
     {
         id: 8,
@@ -83,12 +83,12 @@ const data = [
     },
     {
         id: 9,
-        category: 'Entertainment',
+        category: 'Games',
         image: Image9,
-        title: "Video Player (Entertainment)",
-        desc: "A custom video player with full controls for speed, volume, and playback — built with pure HTML, CSS, and JavaScript.",
-        demo: 'https://jpglez.github.io/Custom-Video-Player/',
-        github: 'https://github.com/jpglez/Custom-Video-Player'
+        title: "Math Sprint (Games)",
+        desc: "A fast-paced multiplication challenge that tests your accuracy and speed, built with pure HTML, CSS, and JavaScript.",
+        demo: 'https://jpglez.github.io/Math-Sprint-Game/',
+        github: 'https://github.com/jpglez/Math-Sprint-Game'
     }
 ]
 
